@@ -20,3 +20,6 @@ This project demonstrates how to build and deploy a production-ready chat applic
 ✔️ Git & GitHub Workflow best practices
 
 
+Workflow Diagram link: https://app.eraser.io/workspace/2tY8DuHQSFK311qswgPG?origin=share
+
+
